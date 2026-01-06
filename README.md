@@ -30,5 +30,5 @@ Citation
 
 If you use this code in your research, please cite the following paper:
 
-R. Nakanishi, “Deep Learning-Based Multi-Lead ECG Reconstruction with Uncertainty Estimation,” Sensors, vol. 26, no. 1, Article 212, 2026. https://doi.org/10.3390/s26010212
+R. Nakanishi, “Deep Learning-Based Multi-Lead ECG Reconstruction with Uncertainty Estimation,” Sensors, vol. 26, no. 1, 212, 2026. https://doi.org/10.3390/s26010212
 
